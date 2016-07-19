@@ -1,6 +1,6 @@
 # FJ61-Java-OO
 <b>Coding4Fun</b> - http://coding4fun.com.br/</br>
-<b>Instrutor</b> - Ryan Padilha - https://br.linkedin.com/in/ryanpadilha - <ryan@gcoding4fun.com.br></br>
+<b>Instrutor</b> - Ryan Padilha - https://br.linkedin.com/in/ryanpadilha - <ryan@coding4fun.com.br></br>
 <b>Conteúdo programático detalhado</b> - https://goo.gl/NN7r7V</br>
 
 <b>Treinamento FJ61 - Java e Orientação a Objetos</b></br>
